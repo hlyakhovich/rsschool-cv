@@ -1,3 +1,3 @@
 # rsschool-cv
-Sample CV Project
+Sample CV Project  
 https://hlyakhovich.github.io/rsschool-cv/cv
