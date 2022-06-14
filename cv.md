@@ -2,7 +2,7 @@
 
 ## Summary
 
-Senior Java developer interested in all aspects of software development.
+Senior Java developer interested in all aspects of software development.  
 Extensive experience in international environment in both large and small companies. 
 
 ## Skills
