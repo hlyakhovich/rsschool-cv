@@ -1,3 +1,31 @@
-.demo {
-    color: black;
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-holder {   
+    width: auto;
+    display: inline-block;    
+}
+  
+.img-holder img {
+    width: 30%;
+    height: auto;
 }
