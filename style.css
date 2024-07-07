@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 body {
@@ -20,11 +20,11 @@ body {
     align-items: center;
 }
 
-.img-holder {   
+.img-holder {
     width: auto;
-    display: inline-block;    
+    display: inline-block;
 }
-  
+
 .img-holder img {
     width: 30%;
     height: auto;
